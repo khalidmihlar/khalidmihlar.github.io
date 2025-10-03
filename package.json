@@ -1,10 +1,10 @@
 {
-  "name": "academic-pages",
+  "name": "khalid-mihlar",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Khalid Mihlar's Professional Website",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/khalidmihlar/khalidmihlar.github.io"
   },
   "keywords": [
     "jekyll",

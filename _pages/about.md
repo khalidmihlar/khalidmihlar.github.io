@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-H, my name is Khalid Mihlar
+Hi, my name is Khalid Mihlar
 
 I'm currently a PhD Student at the University of Utah studying Computer Science. My specialization is focused on Human Centered Computing (HCC), a broad interdisciplinary field that encompases Human-Computer Interaction (HCI), working currently on improving Computer Science Education. I graduated from University of California, Santa Barbara with an Undergraduate Degree in Computer Engineering, and a Masters Degree in Computer Science with a specilization in Networking. 
 
