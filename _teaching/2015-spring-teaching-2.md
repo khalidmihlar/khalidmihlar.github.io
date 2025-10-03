@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 2"
+title: "Teacher's Assitant for CMPSC 32 - Object Oriented Design and Implementation"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/CS32
+venue: "University of California, Santa Barbara, Computer Science"
+date: 2025-01-01
+location: "Santa Barbara"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Advanced topics in object-oriented computing. Topics include encapsulation, data hiding, inheritance, polymorphism, compilation, linking and loading, memory management, and debugging; recent advances in design and development tools, practices, libraries, and operating system support.
 
-Heading 1
+Specific Responsibilities
 ======
+* Was a guest lecturer for the topic of inheretance and public classes in C++
+* Created an extra credit assignment to allow students an additional opportunity to engage with course material to prepare them for their final
 
-Heading 2
+My General Responsibilities
 ======
-
-Heading 3
-======
+* Office Hours once a week to answeer students questions and help them debug their coding assignments
+* Lab Section once a week where I would reteach important concepts covered in class along with any additional potential questions
+* Proctor and Grade Midterm and Final Exams
+* Configured autograders using Gradescope for assignments
