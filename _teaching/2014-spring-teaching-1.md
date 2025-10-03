@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teacher's Assitant for CMPSC 24 - Problem Solving with Computers II"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/CS24
+venue: "University of California, Santa Barbara, Computer Science"
+date: 2025-01-01
+location: "Santa Barbara"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Intermediate building blocks for solving problems using computers. Topics include intermediate object-oriented programming, data structures, object-oriented design, algorithms for manipulating these data structures and their run-time analyses. Data structures introduced include stacks, queues, lists, trees, and sets.
 
-Heading 1
+My Responsibilities
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* Office Hours once a week to answeer students questions and help them debug their coding assignments
+* Lab Section once a week where I would reteach important concepts covered in class along with any additional potential questions
+* Proctor and Grade Midterm and Final Exams
+* Configured autograders using Gradescope for assignments
