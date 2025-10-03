@@ -9,11 +9,11 @@ redirect_from:
 
 Hi, my name is Khalid Mihlar
 
-I'm currently a PhD Student at the University of Utah studying Computer Science. My specialization is focused on Human Centered Computing (HCC), a broad interdisciplinary field that encompases Human-Computer Interaction (HCI), working currently on improving Computer Science Education. I graduated from University of California, Santa Barbara with an Undergraduate Degree in Computer Engineering, and a Masters Degree in Computer Science with a specilization in Networking. 
+I'm currently a PhD Student at the University of Utah studying Computer Science. My specialization is focused on Human Centered Computing (HCC), a broad interdisciplinary field that encompases Human-Computer Interaction (HCI), working currently on improving Computer Science Education. I graduated from University of California, Santa Barbara with an Undergraduate Degree in Computer Engineering, and a Masters Degree in Computer Science with a specialization in Networking. 
 
 High Level Research Topic
 ======
-I am exploring AI as a tool of learning within education keeping in mind how student’s metacognition influences how they use these tools. 
+I am exploring AI as a tool of learning within education keeping in mind how students' metacognition influences how they use these tools. 
 My goal is to understand how we can properly implement the usage of AI and LLM into education, enriching the learning exprience.
 
 <!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
