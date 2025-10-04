@@ -1,5 +1,5 @@
 ---
-title: "Teacher's Assitant for CMPSC 24 - Problem Solving with Computers II"
+title: "Teacher's Assistant for CMPSC 24 - Problem Solving with Computers II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/CS24

@@ -1,5 +1,5 @@
 ---
-title: "Teacher's Assitant for CMPSC 32 - Object Oriented Design and Implementation"
+title: "Teacher's Assistant for CMPSC 32 - Object Oriented Design and Implementation"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/CS32

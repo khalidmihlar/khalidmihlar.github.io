@@ -16,7 +16,7 @@ Education
     * Specialization in Human Centered Computing
     * September 2025 - June 2029
 * University of California, Santa Barbara
-  * M.S. in Comnputer Science
+  * M.S. in Computer Science
     * Specialization in Networking
     * September 2023 - June 2024
   * B.S. in Computer Engineering
