@@ -6,9 +6,13 @@ import Education from './components/Education';
 import Hobbies from './components/Hobbies';
 import Projects from './components/Projects';
 import Teaching from './components/Teaching';
+import CS32 from './components/teaching/CS32';
+import CS24 from './components/teaching/CS24';
+import CS176A from './components/teaching/CS176A';
 
 export default function App() {
   const [currentPage, setCurrentPage] = useState('home');
+  const [selectedCourse, setSelectedCourse] = useState(null);
 
   const renderPage = () => {
     switch (currentPage) {
@@ -23,7 +27,18 @@ export default function App() {
       case 'projects':
         return <Projects />;
       case 'teaching':
-        return <Teaching />;
+        return <Teaching setCurrentPage={setCurrentPage} setSelectedCourse={setSelectedCourse} />;
+      case 'course-detail':
+        if (selectedCourse === 'cmpsc32') {
+          return <CS32 setCurrentPage={setCurrentPage} />;
+        }
+        if (selectedCourse === 'cmpsc24') {
+          return <CS24 setCurrentPage={setCurrentPage} />;
+        }
+        if (selectedCourse === 'cmpsc176a') {
+          return <CS176A setCurrentPage={setCurrentPage} />;
+        }
+        return <Teaching setCurrentPage={setCurrentPage} setSelectedCourse={setSelectedCourse} />;
       default:
         return <Hero />;
     }
